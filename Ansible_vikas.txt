@@ -1,0 +1,14 @@
+** CMS-------Configuration management systems
+
+** Ansible Engine changed to Ansible Core
+
+echo $? to check the command run previously . If true it will throw '0' as value.
+
+ansible-playbook test.yml -C to check  the file
+
+YAML Lint ( Online Yaml validator)
+
+
+
+The ansible-lint command performs syntax checks in the same way as the
+ansible-playbook --syntax-check command.
